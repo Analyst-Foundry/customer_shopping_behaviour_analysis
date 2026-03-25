@@ -1,4 +1,4 @@
-## Project Summary
+# Project Summary
 This repository contains my first end-to-end data analytics project. It demonstrates my ability to work across the full data pipeline—from data extraction and cleaning to SQL analysis, visualization, reporting, and presentation.
 
 The project integrates Python, SQL Server, and Power BI to transform raw data into meaningful insights, supported by a structured reporting and presentation workflow.
@@ -18,31 +18,31 @@ This project addresses:
 - Gamma: Presentation and storytelling
 
 ## Project Workflow
-# 1. Data Collection & Loading
+### 1. Data Collection & Loading
 Imported the dataset into the Python environment
 Validated data structure and formats
 
-# 2. Exploratory Data Analysis (EDA)
+### 2. Exploratory Data Analysis (EDA)
 Identified trends, patterns, and anomalies
 Generated summary statistics
 Visualized distributions and relationships
 
-# 3. Data Cleaning
+### 3. Data Cleaning
 Handled missing values
 Removed duplicates
 Standardized data types and formats
 
-# 4. SQL Analysis
+### 4. SQL Analysis
 Performed advanced queries on SQL Server
 Aggregated and filtered data for insights
 Created reusable query structures
 
-# 5. Data Visualization
+### 5. Data Visualization
 Built an interactive Power BI dashboard
 Designed user-friendly visuals
 Enabled filtering and drill-down capabilities
 
-# 6. Reporting & Presentation
+### 6. Reporting & Presentation
 Compiled findings into a structured report
 Developed a presentation using Gamma
 Focused on clear communication of insights
@@ -62,7 +62,7 @@ In the meantime, you can explore the Power BI file included in this repository.
 1. Clone the repository
 2. Install required Python libraries with the code below:
    
-pip install --upgrade sqlalchemy pandas pyodbc
+      pip install --upgrade sqlalchemy pandas pyodbc
   
 3. Load the dataset into Python
 4. Run EDA and data cleaning scripts
